@@ -1,0 +1,84 @@
+# KFC
+
+## General Information
+KFC, also known as Kentucky Fried Chicken, is a globally recognized fast-food restaurant chain known for its fried chicken. Founded by Colonel Harland Sanders in 1952, KFC has grown to become one of the world's largest and most popular fast-food chains, with thousands of locations in over 150 countries. KFC is known for its secret blend of 11 herbs and spices that give its chicken a unique flavor.
+
+## Menu
+- *Chicken*:
+  - *Original Recipe*: Classic fried chicken with a secret blend of 11 herbs and spices.
+  - *Extra Crispy*: Double-breaded fried chicken for extra crunch.
+  - *Kentucky Grilled Chicken*: Marinated and grilled chicken for a healthier option.
+  - *Chicken Tenders*: Crispy strips of chicken breast.
+
+- *Sandwiches*:
+  - *Zinger Burger*: Spicy fried chicken fillet with lettuce and mayo in a bun.
+  - *Twister Wrap*: Fried chicken strips with lettuce, tomatoes, and pepper mayo in a tortilla wrap.
+  - *Colonel's Chicken Sandwich*: Fried chicken breast with pickles and mayo in a bun.
+
+- *Buckets*:
+  - *8-Piece Bucket*: 8 pieces of Original Recipe or Extra Crispy chicken.
+  - *Family Feast Bucket*: A bucket with a mix of chicken pieces, sides, and biscuits.
+  - *Hot Wings Bucket*: Spicy chicken wings bucket.
+
+- *Sides*:
+  - Mashed Potatoes with Gravy
+  - Coleslaw
+  - Mac and Cheese
+  - Biscuits
+  - Fries
+
+- *Drinks*:
+  - Soft Drinks: Coca-Cola, Pepsi, Mountain Dew, and other popular sodas.
+  - Bottled Water: Pure and refreshing bottled water.
+  - Juices: Assorted fruit juices.
+
+## Deals
+- *KFC Family Feast*:
+  * Price: Rs 2,499+Tax
+  * In Deal Items:
+    - 8 pieces of chicken
+    - 4 biscuits
+    - 2 large sides
+    - 1 large drink
+
+- *Value Meal Deals*:
+  1. Deal name: Zinger Combo
+    * Price: Rs 599+Tax
+    * In Deal Items: One Zinger Burger, fries, and one soft drink.
+
+  2. Deal name: Twister Meal
+    * Price: Rs 499+Tax
+    * In Deal Items: One Twister Wrap, fries, and one soft drink.
+
+- *Special Offers*:
+  1. Deal name: Party Bucket
+    * Price: Rs 3,999+Tax
+    * In Deal Items: A bucket with 16 pieces of chicken, 6 biscuits, and 4 large sides.
+
+  2. Deal name: Lunch Box
+    * Price: Rs 299+Tax
+    * In Deal Items: One piece of chicken, one biscuit, fries, and one drink.
+
+## Nutritional Facts:
+- *Original Recipe Chicken*: One piece of Original Recipe chicken (drumstick) contains approximately 120 calories, with 7 grams of total fat, including 2 grams of saturated fat. It has around 40 milligrams of cholesterol, 290 milligrams of sodium, 3 grams of carbohydrates, and 10 grams of protein.
+
+- *Zinger Burger*: The Zinger Burger has around 450 calories, with 20 grams of total fat, including 4.5 grams of saturated fat. It has approximately 50 milligrams of cholesterol, 1080 milligrams of sodium, 44 grams of carbohydrates, and 23 grams of protein.
+
+## Opening Hours
+- Monday to Thursday: 11:00 AM - 11:00 PM
+- Friday: 11:00 AM - 12:00 AM
+- Saturday: 10:00 AM - 12:00 AM
+- Sunday: 10:00 AM - 11:00 PM
+
+## Contact Information
+- Phone: 021 111 532 532
+- Email: info@kfc.pk
+- Address: KFC, Main Boulevard, Lahore, Pakistan
+
+## Additional Information
+- *Delivery Service*: Delivery is available within a 5-kilometer radius for a nominal fee.
+- *Payment Methods*: Cash, credit/debit cards, and online payment options are accepted.
+
+## Links
+- *Order Online*: www.order.kfc.pk
+- *Customer Reviews*: www.reviews.kfc.pk
