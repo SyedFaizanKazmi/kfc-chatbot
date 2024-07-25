@@ -1,4 +1,5 @@
-from langchain.document_loaders import PyPDFDirectoryLoader
+import os
+from openai import OpenAI
 import PyPDF2
 def read_file(file_path):
     with open(file_path, 'rb') as file:
@@ -23,3 +24,17 @@ def text_split(extracted_data, chunk_size=500, chunk_overlap=20):
         start += chunk_size - chunk_overlap
 
     return text_chunks
+
+from dotenv import load_dotenv
+load_dotenv()
+openaikey=os.getenv('openaikey')
+os.environ['openai_api_key']=openaikey
+
+client = OpenAI()
+def embed(docs: list[str]) -> list[list[float]]:
+    res = client.embeddings.create(
+        input=docs,
+        model="text-embedding-3-small"
+    )
+    doc_embeds = [r.embedding for r in res.data]
+    return doc_embeds
