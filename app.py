@@ -1,4 +1,4 @@
-from flask import Flask,render_template,request,jsonify
+from flask import Flask,render_template,request,jsonify,send_from_directory
 from src.helper import embed
 from src.prompt import *
 from langchain_openai import OpenAIEmbeddings
@@ -16,7 +16,8 @@ load_dotenv()
 openaikey=os.getenv('openaikey')
 os.environ['openai_api_key']=openaikey
 
-app=Flask(__name__)
+app = Flask(__name__)
+
 load_dotenv()
 pinecone_key=os.getenv('pineconekey')
 pc = Pinecone(pinecone_key)
@@ -38,3 +39,15 @@ qa = RetrievalQA.from_chain_type(
 @app.route("/")
 def index():
     return render_template('chat.html')
+
+@app.route("/get", methods=["GET", "POST"])
+def chat():
+    msg = request.form["msg"]
+    input = msg
+    print(input)
+    result=qa({"query": input})
+    print("Response : ", result["result"])
+    return str(result["result"])
+
+if __name__ == '__main__':
+    app.run(host="0.0.0.0", port= 8080, debug= True)
